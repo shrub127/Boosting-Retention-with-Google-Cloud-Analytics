@@ -23,7 +23,10 @@ The primary goal is to address employee turnover, a critical business challenge 
 The project successfully developed a predictive model capable of identifying employees at risk of leaving. The model's accuracy and performance were evaluated using relevant metrics. Key findings include:
 1. Predictive Accuracy: 85% accuracy rate was attained in anticipating possible employee attrition, allowing 
 for focused retention initiatives.
-2. Identification of At-Risk employees: Successfully identified key factors contributing to employee turnover, including job satisfaction, tenure, and engagement levels. This insight allowed for the development of customized retention plans
+2. These are the features affecting the employee churn rate:
+   Satisfaction Level, Last Evaluation, Number of Projects, Average Monthly Hours, Time Spent at the Company, Work 
+   Accident, Promotion in the Last 5 Years
+3. Identification of At-Risk employees: Successfully identified key factors contributing to employee turnover, including job satisfaction, tenure, and engagement levels. This insight allowed for the development of customized retention plans
 
 # 💡 Business Recommendations
 1.	Improve employee satisfaction: Implement initiatives to enhance employee engagement, recognition, and work-life balance.
