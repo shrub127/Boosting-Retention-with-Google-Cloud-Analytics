@@ -1,5 +1,5 @@
 # Boosting-Retention-with-Google-Cloud-Analytics
-# Executive Summary 
+# 🔍 Executive Summary 
 This project focuses on developing a predictive model to identify employees at risk of leaving using Google Cloud. By leveraging BigQuery for data storage, Python and PyCaret for model building, and Looker Studio for visualization, the project aims to provide actionable insights into employee churn. The predictive dashboard will enable stakeholders to identify at-risk employees, understand the factors driving churn, and implement targeted retention strategies.
 
 # Business Problem
